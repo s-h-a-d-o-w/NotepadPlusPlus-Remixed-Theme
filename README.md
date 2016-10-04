@@ -5,4 +5,4 @@ It is not an exact replica of the Notepad++ default theme. JS/HTML/Python colors
 
 For the guides, I recommend the extension [spywhere.guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides).
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme/master/screenshot.png)
