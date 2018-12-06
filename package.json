@@ -1,33 +1,33 @@
 {
-    "name": "theme-notepadplusplusremixed",
-    "displayName": "NotepadPlusPlus Remixed Theme",
-    "description": "This is not an exact replica of the Notepad++ default theme. JS/HTML/Python colors were used as a base but were partly combined and modified a bit.",
-    "icon": "icon.png",
-    "version": "1.0.2",
-    "publisher": "sh4dow",
-    "homepage": "https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme.git"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "notepad plus plus",
-        "notepad++",
-        "theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "NotepadPlusPlus Remixed Theme",
-                "uiTheme": "vs",
-                "path": "./themes/NotepadPlusPlusRemixed.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-notepadplusplusremixed",
+  "displayName": "NotepadPlusPlus Remixed Theme",
+  "description": "This is not an exact replica of the Notepad++ default theme. JS/HTML/Python colors were used as a base but were partly combined and modified a bit.",
+  "icon": "icon.png",
+  "version": "1.0.3",
+  "publisher": "sh4dow",
+  "homepage": "https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme.git"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "notepad plus plus",
+    "notepad++",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NotepadPlusPlus Remixed Theme",
+        "uiTheme": "vs",
+        "path": "./themes/NotepadPlusPlusRemixed.tmTheme"
+      }
+    ]
+  }
 }
