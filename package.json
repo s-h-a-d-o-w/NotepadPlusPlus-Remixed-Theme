@@ -3,8 +3,8 @@
   "displayName": "NotepadPlusPlus Remixed Theme",
   "description": "This is not an exact replica of the Notepad++ default theme. JS/HTML/Python colors were used as a base but were partly combined and modified a bit.",
   "icon": "icon.png",
-  "version": "1.0.3",
-  "publisher": "sh4dow",
+  "version": "1.0.4",
+  "publisher": "s-h-a-d-o-w",
   "homepage": "https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme",
   "repository": {
     "type": "git",
